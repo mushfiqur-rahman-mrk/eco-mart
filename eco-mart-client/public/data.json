@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Carrot",
+      "category": "Vegetable",
+      "review": 4.5,
+      "price": 1.99,
+      "sellCount": 120,
+      "description": "Enjoy the crisp, sweet goodness of our farm-fresh carrots, perfect for snacking or adding a burst of color to your meals. Packed with vitamins and nutrients, these vibrant orange delights promote overall well-being. Sourced from trusted growers, our carrots are a wholesome choice for a healthy lifestyle. Each bite is a crunchy, flavorful experience that elevates your culinary creations. Enhance your salads, stews, or simply relish them on their own. With 500 units in stock, our carrots are ready to brighten your plate and nourish your body.",
+      "image": "carrot.jpg",
+      "brand": "Farm Fresh",
+      "stock": 500
+    },
+    {
+      "name": "Broccoli",
+      "category": "Vegetable",
+      "review": 4.2,
+      "price": 2.49,
+      "sellCount": 90,
+      "description": "Discover the wholesome goodness of our organic broccoli, a versatile and nutritious addition to your kitchen. Bursting with vibrant green color and crisp texture, our broccoli is carefully harvested for optimal freshness. With a rich flavor profile, it's perfect for salads, stir-fries, or as a standalone side dish. Sourced from Organic Harvest, each bite is a commitment to a healthy and eco-conscious lifestyle. With 300 units in stock, bring home the goodness of nature with our premium broccoli for a delightful culinary experience.",
+      "image": "broccoli.jpg",
+      "brand": "Organic Harvest",
+      "stock": 300
+    },
+    {
+      "name": "Spinach",
+      "category": "Vegetable",
+      "review": 4.8,
+      "price": 1.79,
+      "sellCount": 150,
+      "description": "Indulge in the lush, vibrant flavor of our nutrient-rich spinach, a green powerhouse for your culinary creations. Packed with vitamins and minerals, our spinach is a versatile addition to salads, smoothies, and various dishes. Sourced from Nature's Best, these tender leaves offer a delightful and healthful culinary experience. With 200 units in stock, elevate your meals with the freshness and goodness of our premium spinach. Cultivate a nourishing lifestyle with this leafy green that not only tantalizes your taste buds but also supports your well-being.",
+      "image": "spinach.jpg",
+      "brand": "Nature's Best",
+      "stock": 200
+    }
+  ]
+  
